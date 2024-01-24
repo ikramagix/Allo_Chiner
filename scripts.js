@@ -2,6 +2,32 @@ $.get("config.php", function(data) {
   const la_kley = data.API_KEY;
 
   $(document).ready(function() {
+    let la_kley;
+
+    // Désactiver le bouton de recherche initialement
+    $('#searchButton').prop('disabled', true);
+
+    // Récupérer la clé API
+    $.get("config.php", function(data) {
+        la_kley = data.API_KEY;
+
+        // Activer le bouton de recherche
+        $('#searchButton').prop('disabled', false);
+
+        // Afficher un message indiquant que la recherche est prête
+        $('#searchStatus').text("La recherche est maintenant activée.");
+    });
+
+    // Gestion de la soumission du formulaire de recherche
+    $('#searchForm').on('submit', function(e) {
+        e.preventDefault();
+        if (!la_kley) {
+            alert("La recherche n'est pas encore disponible. Veuillez réessayer dans un instant.");
+            return;
+        }
+        const searchText = $('#searchText').val();
+        fetchMovies(searchText);
+    });
       // Gestion de la soumission du formulaire de recherche
       $('#searchForm').on('submit', function(e) {
           e.preventDefault();

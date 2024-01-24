@@ -1257,3 +1257,11 @@
   .footer .credits a {
     color: var(--color-primary);
   }
+
+  .center-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh; 
+    padding: 20px; 
+}

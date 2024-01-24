@@ -39,53 +39,51 @@ Chez nous, chaque utilisateur est un membre d'une communauté mondiale de cinép
 Votre quête du film parfait commence ici. Rejoignez notre communauté de passionnés et découvrez le cinéma sous un jour nouveau. Parce que chaque film a une histoire, et chaque histoire mérite d'être racontée. Explorez, expérimentez, partagez - ensemble, redéfinissons l'expérience cinématographique.
 
 # SEE IT ? CLICK IT !
-<table>
-  <tr>
-    <td align="center" colspan="3">
-      <b>MAGHREB UNITED.</b><br>
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-4 text-center">
+      <h2>Version finale (le projet)</h2>
+      <a href=""></a><img src="assets/img/preview.png" alt="Prototype">
+    </div>
+    <div class="col-md-4 text-center">
+      <h2>Version bêta (no-front) en ligne</h2>
+      <a href="https://your-netlify-status-link.com">
+        <img src="https://api.netlify.com/api/v1/badges/b358caaf-d0c9-454b-b4cb-b384fc4df799/deploy-status" alt="Netlify Status">
+      </a>
+    </div>
+    <div class="col-md-4 text-center">
+      <h2>MAGHREB UNITED</h2>
       <img src="assets/img/testimonials/ALGERIA.gif" alt="Testimonial - ALGERIA">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>Dans les tours.</b><br>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-4 text-center">
+      <h2>Dans les tours</h2>
       <img src="assets/img/testimonials/DANS_LES_TOURS.gif" alt="Testimonial - DANS LES TOURS">
-    </td>
-    <td align="center">
-      <b>MATRiCULE</b><br>
+    </div>
+    <div class="col-md-4 text-center">
+      <h2>MATRiCULE</h2>
       <img src="assets/img/testimonials/GRE4VE5.gif" alt="Testimonial - GRE4VE5">
-    </td>
-    <td align="center">
-      <b>Dignity.</b><br>
+    </div>
+    <div class="col-md-4 text-center">
+      <h2>Dignity</h2>
       <img src="assets/img/testimonials/PLAY_WITH_COURAGE.gif" alt="Testimonial - PLAY WITH COURAGE">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>a$ap RoCK iT:!</b><br>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-4 text-center">
+      <h2>a$ap RoCK iT:!</h2>
       <img src="assets/img/testimonials/asap-rocki.gif" alt="Testimonial - asap-rocki">
-    </td>
-    <td align="center">
-      <b>Brothers.</b><br>
+    </div>
+    <div class="col-md-4 text-center">
+      <h2>Brothers</h2>
       <img src="assets/img/testimonials/bro.gif" alt="Testimonial - bro">
-    </td>
-    <td align="center" colspan="3">
-      <b>Allo.. Chiné ?</b><br>
+    </div>
+    <div class="col-md-4 text-center">
+      <h2>Allo.. Chiné ?</h2>
       <img src="assets/img/apercu_site_allochine.png" alt="Aperçu du site Allochine">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3">
-      <p>X+X+X+X+X</p>
-      <b>click here</b>
-      <p>X+X+X+X+X</p><br>
-      <a href="https://allochiner.netlify.app/"><img src="assets/img/testimonials/click-here-unscreened.gif" alt="Testimonial - click-here-unscreened"></a>
-    </td>
-    <td align="center" colspan="2">
-      <p>X+X+X+X+X</p>
-      <b>allochiné</b>
-      <p>X+X+X+X+X</p><br>
-      <img src="assets/img/apercu_site_allochine_marvel.png" alt="Aperçu du site Allochine Marvel">
-    </td>
-  </tr>
-</table>
+    </div>
+  </div>
+</div>
