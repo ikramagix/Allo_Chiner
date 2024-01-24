@@ -1,4 +1,4 @@
-$.get("config.php", function(la_kley) {
+$.get("config.php", function(data) {
   const la_kley = data.API_KEY;
 
   $(document).ready(function() {
