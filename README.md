@@ -1,6 +1,10 @@
 # Allo... Chiné ?
 
 Un générateur de films et de séries aléatoires pour pimenter vos soirées Netflix, bloqué dans la boucle des recommandations répétitives !
+
+<hr> 
+
+
 ![With Love From Earth Join Us : Arabicode](assets/img/with-love-from-earth-join-us-music.svg)
 
 # Where in the World Wide Web ?
