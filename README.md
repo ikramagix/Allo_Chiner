@@ -1,15 +1,12 @@
 # Allo... Chiné ?
 
-<header id="header" class="header d-flex align-items-center fixed-top">
-    <div class="container-fluid d-flex align-items-center justify-content-center">
-        <h1 class="text-center">Un générateur de films et séries aléatoires pour pimenter vos soirées Netflops bloqué dans la boucle des recommandations répétitives !</h1>
-        <img src="assets/img/icon_allo_chiner.png" alt="AlloChiner Icon" class="center-image">
-    </div>
-</header>
+Un générateur de films et de séries aléatoires pour pimenter vos soirées Netflix, bloqué dans la boucle des recommandations répétitives !
+![With Love From Earth Join Us : Arabicode](assets/img/with-love-from-earth-join-us-music.svg)
 
 # Where in the World Wide Web ?
 
 - Version finale (en ligne ?) :
+
   ![Prototype](assets/img/apercu_site_allochine_CTO.png)
 
 - Tracker de statut :
