@@ -1,4 +1,4 @@
-## AlloChiné?: Un générateur de films et séries aléatoires pour pimenter vos soirées Netflops bloqué dans la boucle des recommandations répétitives !
+# AlloChiné?: Un générateur de films et séries aléatoires pour pimenter vos soirées Netflops bloqué dans la boucle des recommandations répétitives !
 
 - Version finale (en ligne ?) :
   ![Prototype](assets/img/preview.png)
