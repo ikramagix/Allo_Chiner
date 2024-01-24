@@ -86,4 +86,9 @@ Votre quête du film parfait commence ici. Rejoignez notre communauté de passio
       <img src="assets/img/apercu_site_allochine.png" alt="Aperçu du site Allochine">
     </div>
   </div>
+      <div class="col-md-4 text-center">
+      <h2>Allo.. Chiné ?</h2>
+      <img src="assets/img/apercu_site_allochine_marvel.png" alt="Aperçu du site Allochine avec des films de comic book grand public">
+    </div>
+  </div>
 </div>
