@@ -53,14 +53,15 @@ Votre quête du film parfait commence ici. Rejoignez notre communauté de passio
   <div class="row">
     <div class="col-md-4 text-center">
       <h2>Version finale (le projet)</h2>
-      <a href=""></a><img src="assets/img/preview.png" alt="Prototype">
+      <a href=""></a><img src="assets/img/apercu_site_allochine_CTO.png" alt="Prototype">
     </div>
     <div class="col-md-4 text-center">
-      <h2>Version bêta en ligne</h2>
+      <h2>Version bêta en ligne :</h2>
       <a href="https://allochiner.netlify.com">
         <img src="https://api.netlify.com/api/v1/badges/b358caaf-d0c9-454b-b4cb-b384fc4df799/deploy-status" alt="Netlify Status">
       </a>
     </div>
+    <h1>LA GALERiE DES GOLERI$</h1>
     <div class="col-md-4 text-center">
       <h2>MAGHREB UNITED</h2>
       <img src="assets/img/testimonials/ALGERIA.gif" alt="Testimonial - ALGERIA">
