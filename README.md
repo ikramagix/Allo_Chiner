@@ -7,7 +7,7 @@ Un générateur de films et de séries aléatoires pour pimenter vos soirées Ne
 
 ![With Love From Earth Join Us : Arabicode](assets/img/with-love-from-earth-join-us-music.svg)
 
-# Where in the World Wide Web ?
+# Where in the WWW (World Wide Web) ?
 
 - Version finale (en ligne ?) :
 
@@ -15,6 +15,8 @@ Un générateur de films et de séries aléatoires pour pimenter vos soirées Ne
 
 - Tracker de statut :
   [![Netlify Status](https://api.netlify.com/api/v1/badges/b358caaf-d0c9-454b-b4cb-b384fc4df799/deploy-status)](https://your-netlify-status-link.com) ✅
+  
+  ![Attention pump](assets/img/consumes-attention-like-tik-tok.svg)
 
 # Redécouvrez la magie du cinéma avec AlloChiné
 
