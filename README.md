@@ -63,23 +63,23 @@ Votre quête du film parfait commence ici. Rejoignez notre communauté de passio
         <img src="https://api.netlify.com/api/v1/badges/b358caaf-d0c9-454b-b4cb-b384fc4df799/deploy-status" alt="Netlify Status">
       </a>
     </div>
-    <h1>LA GALERiE DES GOLERI$</h1>
+    <h1>une GALERiE:LA_GALERiE ici!</h1>
     <div class="col-md-4 text-center">
-      <h2>MAGHREB UNITED</h2>
+      <h2>MAGHREB UNITED </h2>
       <img src="assets/img/testimonials/ALGERIA.gif" alt="Testimonial - ALGERIA">
     </div>
   </div>
   <div class="row">
     <div class="col-md-4 text-center">
-      <h2>Dans les tours</h2>
+      <h2>Je monte dans les tours comme Jul.</h2>
       <img src="assets/img/testimonials/DANS_LES_TOURS.gif" alt="Testimonial - DANS LES TOURS">
     </div>
     <div class="col-md-4 text-center">
-      <h2>MATRiCULE</h2>
+      <h2>MATRiCULE: 555.</h2>
       <img src="assets/img/testimonials/GRE4VE5.gif" alt="Testimonial - GRE4VE5">
     </div>
     <div class="col-md-4 text-center">
-      <h2>Dignity</h2>
+      <h2>Dignity.</h2>
       <img src="assets/img/testimonials/PLAY_WITH_COURAGE.gif" alt="Testimonial - PLAY WITH COURAGE">
     </div>
   </div>
