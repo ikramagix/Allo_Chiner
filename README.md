@@ -39,10 +39,9 @@ Chez nous, chaque utilisateur est un membre d'une communauté mondiale de cinép
 Votre quête du film parfait commence ici. Rejoignez notre communauté de passionnés et découvrez le cinéma sous un jour nouveau. Parce que chaque film a une histoire, et chaque histoire mérite d'être racontée. Explorez, expérimentez, partagez - ensemble, redéfinissons l'expérience cinématographique.
 
 # SEE IT ? CLICK IT !
-
 <table>
   <tr>
-    <td align="center">
+    <td align="center" colspan="3">
       <b>MAGHREB UNITED.</b><br>
       <img src="assets/img/testimonials/ALGERIA.gif" alt="Testimonial - ALGERIA">
     </td>
@@ -70,20 +69,22 @@ Votre quête du film parfait commence ici. Rejoignez notre communauté de passio
       <b>Brothers.</b><br>
       <img src="assets/img/testimonials/bro.gif" alt="Testimonial - bro">
     </td>
-        <td align="center">
+    <td align="center" colspan="3">
       <b>Allo.. Chiné ?</b><br>
       <img src="assets/img/apercu_site_allochine.png" alt="Aperçu du site Allochine">
     </td>
-    <td align="center">
-      <p>X+X+X+X+X</P>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p>X+X+X+X+X</p>
       <b>click here</b>
-      <p>X+X+X+X+X</P><br>
+      <p>X+X+X+X+X</p><br>
       <a href="https://allochiner.netlify.app/"><img src="assets/img/testimonials/click-here-unscreened.gif" alt="Testimonial - click-here-unscreened"></a>
     </td>
-        <td align="center">
-      <p>X+X+X+X+X</P>
+    <td align="center" colspan="2">
+      <p>X+X+X+X+X</p>
       <b>allochiné</b>
-      <p>X+X+X+X+X</P><br>
+      <p>X+X+X+X+X</p><br>
       <img src="assets/img/apercu_site_allochine_marvel.png" alt="Aperçu du site Allochine Marvel">
     </td>
   </tr>
