@@ -13,7 +13,7 @@ $.get("config.php", function(data) {
       function fetchMovies(searchText) {
           $.ajax({
               method: 'GET',
-              url: `http://www.omdbapi.com/?s=${searchText}&apikey=${la_kley}`,
+              url: `https://www.omdbapi.com/?s=${searchText}&apikey=${la_kley}`,
               dataType: 'json',
               success: function(data) {
                   if (data.Response === 'True') {
@@ -56,7 +56,7 @@ $.get("config.php", function(data) {
       function fetchMovieDetails(movieId) {
           $.ajax({
               method: 'GET',
-              url: `http://www.omdbapi.com/?i=${movieId}&apikey=${la_kley}`,
+              url: `https://www.omdbapi.com/?i=${movieId}&apikey=${la_kley}`,
               dataType: 'json',
               success: function(response) {
                   displayMovieDetails(response);
