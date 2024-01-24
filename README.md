@@ -1,14 +1,12 @@
-## Un générateur de films et séries aléatoires.
+## Un générateur de films et séries aléatoires pour pimenter vos soirées Netflops !
 
-- Version finale (le projet) :
+- Version finale (en ligne ?) :
   ![Prototype](assets/img/preview.png)
 
-## L'exercice API
-
-- Version bêta (no-front) en ligne :
+- Tracker de statut : ✅
   [![Netlify Status](https://api.netlify.com/api/v1/badges/b358caaf-d0c9-454b-b4cb-b384fc4df799/deploy-status)](https://your-netlify-status-link.com)
 
-# Redécouvrez la magie du cinéma avec allochine.netlify.app
+# Redécouvrez la magie du cinéma avec AlloChiné
 
 ## Introduction
 
