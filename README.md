@@ -1,13 +1,12 @@
 ## Un générateur de films et séries aléatoires.
 
-- Version finale (le projet) : 
+- Version finale (le projet) :
   ![Prototype](assets/img/preview.png)
 
-## L'exercice API 
+## L'exercice API
 
 - Version bêta (no-front) en ligne :
   [![Netlify Status](https://api.netlify.com/api/v1/badges/b358caaf-d0c9-454b-b4cb-b384fc4df799/deploy-status)](https://your-netlify-status-link.com)
-
 
 # Redécouvrez la magie du cinéma avec allochine.netlify.app
 
@@ -44,15 +43,7 @@ Votre quête du film parfait commence ici. Rejoignez notre communauté de passio
 <table>
   <tr>
     <td align="center">
-      <b>The site</b><br>
-      <img src="assets/img/apercu_site_allochine.png" alt="Aperçu du site Allochine">
-    </td>
-    <td align="center">
-      <b>A Marvel</b><br>
-      <img src="assets/img/apercu_site_allochine_marvel.png" alt="Aperçu du site Allochine Marvel">
-    </td>
-    <td align="center">
-      <b>MAGHREB UNITED</b><br>
+      <b>MAGHREB UNITED.</b><br>
       <img src="assets/img/testimonials/ALGERIA.gif" alt="Testimonial - ALGERIA">
     </td>
   </tr>
@@ -79,9 +70,21 @@ Votre quête du film parfait commence ici. Rejoignez notre communauté de passio
       <b>Brothers.</b><br>
       <img src="assets/img/testimonials/bro.gif" alt="Testimonial - bro">
     </td>
+        <td align="center">
+      <b>Allo.. Chiné ?</b><br>
+      <img src="assets/img/apercu_site_allochine.png" alt="Aperçu du site Allochine">
+    </td>
     <td align="center">
-      <b>click here</b><br>
+      <p>X+X+X+X+X</P>
+      <b>click here</b>
+      <p>X+X+X+X+X</P><br>
       <a href="https://allochiner.netlify.app/"><img src="assets/img/testimonials/click-here-unscreened.gif" alt="Testimonial - click-here-unscreened"></a>
+    </td>
+        <td align="center">
+      <p>X+X+X+X+X</P>
+      <b>allochiné</b>
+      <p>X+X+X+X+X</P><br>
+      <img src="assets/img/apercu_site_allochine_marvel.png" alt="Aperçu du site Allochine Marvel">
     </td>
   </tr>
 </table>
