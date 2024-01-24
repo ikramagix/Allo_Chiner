@@ -1265,3 +1265,12 @@
     height: 20vh; 
     padding: 20px; 
 }
+
+a {
+  text-decoration: none !important; /* Supprime le soulignement */
+  transition: color 1s; /* Ajoute une animation au survol */
+}
+
+a:hover {
+  color: #27a776 !important; /* Couleur au survol */
+}

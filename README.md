@@ -1,4 +1,4 @@
-## Un générateur de films et séries aléatoires pour pimenter vos soirées Netflops !
+## Netflop: Un générateur de films et séries aléatoires pour pimenter vos soirées cinéma !
 
 - Version finale (en ligne ?) :
   ![Prototype](assets/img/preview.png)
