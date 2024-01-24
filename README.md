@@ -1,6 +1,8 @@
+# Allo... Chiné ?
+
 <header id="header" class="header d-flex align-items-center fixed-top">
     <div class="container-fluid d-flex align-items-center justify-content-center">
-        <h1 class="text-center">Allo... Chiné ? : Un générateur de films et séries aléatoires pour pimenter vos soirées Netflops bloqué dans la boucle des recommandations répétitives !</h1>
+        <h1 class="text-center">Un générateur de films et séries aléatoires pour pimenter vos soirées Netflops bloqué dans la boucle des recommandations répétitives !</h1>
         <img src="assets/img/icon_allo_chiner.png" alt="AlloChiner Icon" class="center-image">
     </div>
 </header>
