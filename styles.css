@@ -1,0 +1,10 @@
+.movie-card {
+    opacity: 0;
+    transform: translateX(-100px);
+    transition: all 0.5s ease-out;
+}
+
+.movie-card.visible {
+    opacity: 1;
+    transform: translateX(0);
+}
