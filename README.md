@@ -56,8 +56,8 @@ Votre quête du film parfait commence ici. Rejoignez notre communauté de passio
       <a href=""></a><img src="assets/img/preview.png" alt="Prototype">
     </div>
     <div class="col-md-4 text-center">
-      <h2>Version bêta (no-front) en ligne</h2>
-      <a href="https://your-netlify-status-link.com">
+      <h2>Version bêta en ligne</h2>
+      <a href="https://allochiner.netlify.com">
         <img src="https://api.netlify.com/api/v1/badges/b358caaf-d0c9-454b-b4cb-b384fc4df799/deploy-status" alt="Netlify Status">
       </a>
     </div>
