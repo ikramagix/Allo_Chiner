@@ -86,10 +86,6 @@ Votre quête du film parfait commence ici. Rejoignez notre communauté de passio
       <h2>a$ap RoCK iT:!</h2>
       <img src="assets/img/testimonials/asap-rocki.gif" alt="Testimonial - asap-rocki">
     </div>
-        <div class="col-md-4 text-center">
-      <h2>Dignity.</h2>
-      <img src="assets/img/testimonials/the-thinker.gif" alt="Testimonial - The Thinker">
-    </div>
   </div>
     <div class="col-md-4 text-center">
       <h2>Brothers</h2>
