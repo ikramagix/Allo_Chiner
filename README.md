@@ -122,5 +122,5 @@ Votre quête du film parfait commence ici. Rejoignez notre communauté de passio
           <h2>Enjoy, it's art!</h2>
     <img src="assets/img/acropolis_airbus_beluga.png" alt="Aperçu de l'acropole avec une fontaine en forme d'Airbus Beluga">
         <h2>Licensed & Certfied French Web Dev</h2>
-    <a href="https://www.linkedin.com/in/ikrame-saadi/"><img src="assets/img/bear_oasis.png" alt="Aperçu d'un oasis avec un ours polaire et une jungle luxuriante">
+    <a href="https://www.linkedin.com/in/ikrame-saadi/"><img src="assets/img/bear_oasis.png" alt="Aperçu d'un oasis avec un ours polaire et une jungle luxuriante"></a>
   </div>
