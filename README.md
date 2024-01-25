@@ -116,3 +116,9 @@ Votre quête du film parfait commence ici. Rejoignez notre communauté de passio
     <img src="assets/img/apercu_site_allochine_marvel.png" alt="Aperçu du site Allochine avec des films de comic book grand public">
   </div>
 </div>
+
+
+  <div class="col-md-4 text-center">
+    <h2>Alors.. Chiné !</h2>
+    <img src="assets/img/acropolis_airbus_beluga.png" alt="Aperçu de l'acropole avec une fontaine en forme d'Airbus Beluga">
+  </div>
