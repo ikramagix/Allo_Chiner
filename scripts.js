@@ -21,7 +21,7 @@ $.get("config.php", function(data) {
     // Gestion de la soumission du formulaire de recherche
     $('#searchForm').on('submit', function(e) {
         e.preventDefault();
-        if (!la_kley) {
+        if (!API_KEY) {
             alert("La recherche n'est pas encore disponible. Veuillez réessayer dans un instant.");
             return;
         }
