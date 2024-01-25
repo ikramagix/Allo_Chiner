@@ -1262,6 +1262,7 @@ h6 {
 
 .footer .credits a {
   color: var(--color-primary);
+  font-family: var(--font-primary);
 }
 
 .center-div {
