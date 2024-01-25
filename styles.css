@@ -1278,3 +1278,14 @@ a {
 a:hover {
   color: #116e4b !important;
 }
+
+
+.footer {
+  padding: 5rem 0;
+  background-color: #000; 
+}
+
+.black-background {
+  background-color: #000; 
+  color: #fff; 
+}
