@@ -1266,11 +1266,15 @@
     padding: 20px; 
 }
 
+  /*--------------------------------------------------------------
+  # Extras
+  --------------------------------------------------------------*/
+
 a {
-  text-decoration: none !important; /* Supprime le soulignement */
-  transition: color 1s; /* Ajoute une animation au survol */
+  text-decoration: none !important; 
+  transition: color 0.3s;
 }
 
 a:hover {
-  color: #116e4b !important; /* Couleur au survol */
+  color: #116e4b !important;
 }
