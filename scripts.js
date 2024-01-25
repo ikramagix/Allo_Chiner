@@ -1,15 +1,15 @@
 $.get("config.php", function(data) {
-  const la_kley = data.API_KEY;
+  const API_KEY = data.API_KEY;
 
   $(document).ready(function() {
-    let la_kley;
+    let API_KEY;
 
     // Désactiver le bouton de recherche initialement
     $('#searchButton').prop('disabled', true);
 
     // Récupérer la clé API
     $.get("config.php", function(data) {
-        la_kley = data.API_KEY;
+        API_KEY = data.API_KEY;
 
         // Activer le bouton de recherche
         $('#searchButton').prop('disabled', false);
@@ -39,7 +39,7 @@ $.get("config.php", function(data) {
       function fetchMovies(searchText) {
           $.ajax({
               method: 'GET',
-              url: `https://www.omdbapi.com/?s=${searchText}&apikey=${la_kley}`,
+              url: `https://www.omdbapi.com/?s=${searchText}&apikey=${API_KEY}`,
               dataType: 'json',
               success: function(data) {
                   if (data.Response === 'True') {
@@ -82,7 +82,7 @@ $.get("config.php", function(data) {
       function fetchMovieDetails(movieId) {
           $.ajax({
               method: 'GET',
-              url: `https://www.omdbapi.com/?i=${movieId}&apikey=${la_kley}`,
+              url: `https://www.omdbapi.com/?i=${movieId}&apikey=${API_KEY}`,
               dataType: 'json',
               success: function(response) {
                   displayMovieDetails(response);
