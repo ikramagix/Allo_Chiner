@@ -6,7 +6,7 @@
 
 /* Fonts */
 :root {
-    --font-default: "Open Sans", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --font-default: "Cute Font", sans-serif, system-ui, -apple-system, "Segoe UI", "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     --font-primary: "Grape Nuts", cursive;
     --font-secondary: "Cardo", sans-serif;
   }
@@ -1291,5 +1291,9 @@ a:hover {
 }
 
 .custom-font {
-  font-family: 'Grape Nuts', cursive !important; 
+  font-family: '', cursive !important; 
+}
+
+.my-custom-font {
+  font-family: 'NouvellePolice', sans-serif; /* Remplacez 'NouvellePolice' par le nom de la police que vous souhaitez utiliser */
 }
