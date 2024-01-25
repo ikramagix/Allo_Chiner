@@ -2,8 +2,7 @@
 
 Un générateur de films et de séries aléatoires pour pimenter vos soirées Netflix, bloqué dans la boucle des recommandations répétitives !
 
-<hr> 
-
+<hr>
 
 ![With Love From Earth Join Us : Arabicode](assets/img/with-love-from-earth-join-us-music.svg)
 
@@ -15,7 +14,7 @@ Un générateur de films et de séries aléatoires pour pimenter vos soirées Ne
 
 - Tracker de statut :
   [![Netlify Status](https://api.netlify.com/api/v1/badges/b358caaf-d0c9-454b-b4cb-b384fc4df799/deploy-status)](https://your-netlify-status-link.com) ✅
-  
+
   ![Attention pump](assets/img/consumes-attention-like-tik-tok.svg)
 
 # Redécouvrez la magie du cinéma avec AlloChiné
@@ -49,7 +48,6 @@ Chez nous, chaque utilisateur est un membre d'une communauté mondiale de cinép
 Votre quête du film parfait commence ici. Rejoignez notre communauté de passionnés et découvrez le cinéma sous un jour nouveau. Parce que chaque film a une histoire, et chaque histoire mérite d'être racontée. Explorez, expérimentez, partagez - ensemble, redéfinissons l'expérience cinématographique.
 
 # SEE IT ? CLICK IT !
-
 
 <div class="container">
   <div class="row">
@@ -88,13 +86,30 @@ Votre quête du film parfait commence ici. Rejoignez notre communauté de passio
       <h2>a$ap RoCK iT:!</h2>
       <img src="assets/img/testimonials/asap-rocki.gif" alt="Testimonial - asap-rocki">
     </div>
+        <div class="col-md-4 text-center">
+      <h2>Dignity.</h2>
+      <img src="assets/img/testimonials/the-thinker.gif" alt="Testimonial - The Thinker">
+    </div>
+  </div>
     <div class="col-md-4 text-center">
       <h2>Brothers</h2>
       <img src="assets/img/testimonials/bro.gif" alt="Testimonial - bro">
     </div>
+            <div class="col-md-4 text-center">
+      <h2>Dignity.</h2>
+      <img src="assets/img/testimonials/the-thinker.gif" alt="Testimonial - The Thinker">
+    </div>
+        <div class="col-md-4 text-center">
+      <h2>DaTPaRTii Cartillé</h2>
+      <img src="assets/img/testimonials/dat-party.gif" alt="Testimonial party fun">
+    </div>
     <div class="col-md-4 text-center">
-      <h2>Allo.. Chiné ?</h2>
-      <img src="assets/img/apercu_site_allochine.png" alt="Aperçu du site Allochine">
+      <h2>DaTMooD</h2>
+      <img src="assets/img/testimonials/that-mood.gif" alt="Ce Mood!">
+    </div>
+        <div class="col-md-4 text-center">
+      <h2>Stan Smith.</h2>
+      <img src="assets/img/testimonials/white-shoe-hit.gif" alt="Chaussures Blanches.">
     </div>
   </div>
       <div class="col-md-4 text-center">
