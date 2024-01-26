@@ -1,7 +1,4 @@
-$.get("config.php", function(data) {
-  const API_KEY = data.API_KEY;
-
-  $(document).ready(function() {
+$(document).ready(function() {
     let API_KEY;
 
     // Désactiver le bouton de recherche initialement
@@ -39,7 +36,7 @@ $.get("config.php", function(data) {
       function fetchMovies(searchText) {
           $.ajax({
               method: 'GET',
-              url: `https://www.omdbapi.com/?s=${searchText}&apikey=${API_KEY}`,
+              url: `http://www.omdbapi.com/?i=tt1630029&apikey=${API_KEY}`,
               dataType: 'json',
               success: function(data) {
                   if (data.Response === 'True') {
@@ -83,6 +80,7 @@ $.get("config.php", function(data) {
           $.ajax({
               method: 'GET',
               url: `https://www.omdbapi.com/?i=${movieId}&apikey=${API_KEY}`,
+
               dataType: 'json',
               success: function(response) {
                   displayMovieDetails(response);
@@ -108,4 +106,3 @@ $.get("config.php", function(data) {
           $('#movieModal').modal('hide');
       });
   });
-});
