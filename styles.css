@@ -1293,14 +1293,19 @@ a:hover {
 /* Styles Pop-Up */
 
 #movieModal .modal-content {
-  background-color: black; 
+  background-color: black;
 }
 
 #movieModal .modal-body {
-  color: white; 
+  color: white;
 }
 
 #movieModal .modal-body strong,
 #movieModal .modal-title {
-  color: green; 
+  color: green;
+}
+
+#movieModal .btn-close {
+  filter: invert(47%) sepia(94%) saturate(746%) hue-rotate(88deg)
+    brightness(103%) contrast(101%);
 }
