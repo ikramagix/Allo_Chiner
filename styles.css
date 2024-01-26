@@ -1,15 +1,9 @@
-.movie-card {
-  opacity: 0;
-  transform: translateX(-100px);
-  transition: all 0.5s ease-out;
-}
-
 /* Fonts */
 :root {
-  --font-default: "Cute Font", sans-serif, system-ui, -apple-system, "Segoe UI",
+  --font-default: "Arial", sans-serif, system-ui, -apple-system, "Segoe UI",
     "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --font-primary: "Grape Nuts", cursive;
+  --font-primary: "Arial", sans-serif;
   --font-secondary: "Cardo", sans-serif;
 }
 
@@ -496,7 +490,7 @@ h6 {
     align-items: center;
     justify-content: space-between;
     padding: 10px 20px;
-    font-family: var(--font-primary);
+    font-family: var(--font-default);
     font-size: 13px;
     text-transform: uppercase;
     font-weight: 400;
@@ -1262,7 +1256,7 @@ h6 {
 
 .footer .credits a {
   color: var(--color-primary);
-  font-family: var(--font-primary);
+  font-family: var(--font-default);
 }
 
 .center-div {
@@ -1296,10 +1290,17 @@ a:hover {
   color: #fff !important;
 }
 
-.custom-font {
-  font-family: "Grape Nuts", cursive !important;
+/* Styles Pop-Up */
+
+#movieModal .modal-content {
+  background-color: black; 
 }
 
-.my-custom-font {
-  font-family: "Grape Nuts", sans-serif !important;
+#movieModal .modal-body {
+  color: white; 
+}
+
+#movieModal .modal-body strong,
+#movieModal .modal-title {
+  color: green; 
 }

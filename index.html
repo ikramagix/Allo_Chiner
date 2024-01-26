@@ -99,99 +99,45 @@
   </section>
   <!-- End Hero Section -->
 
-  <main id="main" data-aos="fade" data-aos-delay="1500">
+  <!-- ======= Main ======= -->
 
+  <main id="main" data-aos="fade" data-aos-delay="1500">
     <section id="gallery" class="gallery">
       <div class="container-fluid">
         <div class="row gy-4 justify-content-center" id="movieGallery">
-    <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
-      rel="stylesheet"
-      integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
-      crossorigin="anonymous"
-    />
-    <link href="styles.css" rem="stylesheet" />
-  </head>
-  <body>
-    <div class="container mt-5">
-      <h1 class="text-center mb-4">Alors, chiné ?</h1>
-      <form id="searchForm">
-        <div class="form-group">
-          <input
-            type="text"
-            class="form-control"
-            id="searchText"
-            placeholder="Chercher un film..."
-          />
-        </div>
-        <div class="center-div">
-          <button type="submit" class="btn btn-success btn-block text-center">
-              Rechercher
-          </button>
-      </div>
-      </form>
-      <div id="movies" class="row"></div>
-    </div>
-
-    <script id="movie-template" type="text/x-handlebars-template">
-      <div class="col-md-4 mb-3">
-        <div
-          class="card movie-card"
-          style="opacity: 0; transform: translateX(-100px);"
-        >
-          <img src="{{poster}}" class="card-img-top" alt="{{title}}" />
-          <div class="card-body">
-            <h5 class="card-title">{{title}}</h5>
-            <p class="card-text">{{release_date}}</p>
-            <a href="#" class="btn btn-primary read-more" data-id="{{id}}">En
-              savoir plus</a>
+          <div class="container mt-5">
+            <h1 class="text-center mb-4">Alors, chiné ?</h1>
+            <form id="searchForm">
+              <div class="form-group">
+                <input type="text" class="form-control" id="searchText" placeholder="Chercher un film...">
+              </div>
+              <div class="center-div">
+                <button type="submit" class="btn btn-success btn-block text-center">Rechercher</button>
+              </div>
+            </form>
+            <div id="movies" class="row"></div>
           </div>
         </div>
-      </div>
-    </script>
-    <div
-      class="modal fade"
-      id="movieModal"
-      tabindex="-1"
-      aria-labelledby="movieModalLabel"
-      aria-hidden="true"
-    >
-      <div class="modal-dialog">
-        <div class="modal-content">
-          <div class="modal-header">
-            <h5 class="modal-title" id="movieModalLabel">
-              Vous avez chiné le film suivant...
-            </h5>
-            <button
-              type="button"
-              class="close"
-              data-dismiss="modal"
-              aria-label="Close"
-            >
-              <span aria-hidden="true">&times;</span>
-            </button>
-          </div>
-          <div class="modal-body"></div>
-        </div>
-      </div>
-    </div>
-
-    <script
-      src="https://code.jquery.com/jquery-3.7.1.min.js"
-      integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
-      crossorigin="anonymous"
-    ></script>
-    <script
-      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
-      integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
-      crossorigin="anonymous"
-    ></script>
-    <script src="scripts.js"></script>
-  </body>        </div>
       </div>
     </section>
+  </main>
+  
+  <!-- End #main -->
 
-  </main><!-- End #main -->
+  <!-- Movie Details Modal -->
+<div class="modal fade" id="movieModal" tabindex="-1" aria-labelledby="movieModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="movieModalLabel">Détails du film</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <!-- Movie details will be inserted here by JavaScript -->
+      </div>
+    </div>
+  </div>
+</div>
 
   <!-- ======= Footer ======= -->
   <footer id="footer" class="footer black-background">
@@ -217,8 +163,7 @@
       <div class="row justify-content-center">
         <div class="col-lg-6 text-center custom-font">
           <p>Nous en découvrons des choses en tapotant <span>chez soi</span> ! <br>Nous sommes passionnés de savoir, à la découverte des univers captivant qu'est notre univers entier.</p>
-          <p>Take a leap in the future. <br> Join Automation today !</p>
-                    <p><a href="https://chat.openai.com/">🌍.app</a></p>
+          <p><a href="https://chat.openai.com/">🌍.app</a></p>
         </div>
       </div>
   </section>
@@ -231,16 +176,17 @@
     <div class="line"></div>
   </div>
 
-  <!-- Vendor JS Files -->
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/aos/aos.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
-
-  <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
-  <script src="scripts.js"></script>
+   <!-- Vendor JS Files -->
+   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+   <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+   <script src="assets/vendor/aos/aos.js"></script>
+ 
+   <!-- Template Main JS File -->
+   <script src="assets/js/main.js"></script>
+ 
+   <!-- Your Scripts File -->
+   <script src="scripts.js"></script>
 
 </body>
 
