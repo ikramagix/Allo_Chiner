@@ -60,7 +60,7 @@ Votre quête du film parfait commence ici. Rejoignez notre communauté de passio
         <img src="https://api.netlify.com/api/v1/badges/b358caaf-d0c9-454b-b4cb-b384fc4df799/deploy-status" alt="Netlify Status">
       </a>
     </div>
-    <h1>une GALERiE:LA_GALERiE ici!</h1>
+    <h1>une GALERiE:LA_GALERiE, ici?! Scandale!</h1>
     <div class="col-md-4 text-center">
       <h2>MAGHREB UNITED </h2>
       <img src="assets/img/testimonials/ALGERIA.gif" alt="Testimonial - ALGERIA">
@@ -121,9 +121,6 @@ Votre quête du film parfait commence ici. Rejoignez notre communauté de passio
   <div class="col-md-4 text-center">
           <h2>Enjoy, it's art!</h2>
     <img src="assets/img/acropolis_airbus_beluga.png" alt="Aperçu de l'acropole avec une fontaine en forme d'Airbus Beluga">
-        <h2>Hi! 👋 I am a licensed & certified French Web Dev! 🪂</h2>
-    <a href="https://www.linkedin.com/in/ikrame-saadi/"><img src="assets/img/bear_oasis.png" alt="Aperçu d'un oasis avec un ours polaire et une jungle luxuriante"></a>
-  </div>
 
   <blockquote>Toutes les grandes réalisations prennent du temps.</bloquote>
   <p>- Maya Angelou</p>
