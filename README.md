@@ -95,14 +95,6 @@ Votre quête du film parfait commence ici. Rejoignez notre communauté de passio
     <img src="assets/img/testimonials/the-thinker.gif" alt="Testimonial - The Thinker">
   </div>
   <div class="col-md-4 text-center">
-    <h2>DaTPaRTii Cartillé</h2>
-    <img src="assets/img/testimonials/dat-party.gif" alt="Testimonial party fun">
-  </div>
-  <div class="col-md-4 text-center">
-    <h2>DaTMooD</h2>
-    <img src="assets/img/testimonials/that-mood.gif" alt="Ce Mood!">
-  </div>
-  <div class="col-md-4 text-center">
     <h2>Stan Smith.</h2>
     <img src="assets/img/testimonials/white-shoe-hit.gif" alt="Chaussures Blanches.">
   </div>
