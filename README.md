@@ -1,7 +1,7 @@
 # Allo... Chiné ?
 
 Un générateur de films et de séries aléatoires pour pimenter vos soirées Netflix, bloqué dans la boucle des recommandations répétitives !
-👉 [![You do not speak baguette?](assets/img/Readme_in_English.png)](https://github.com/ikramagix/Allo_Chiner/blob/main/README_INT.md)
+[![You do not speak baguette?](assets/img/Readme_in_English.png)](https://github.com/ikramagix/Allo_Chiner/blob/main/README_INT.md)
 
 
 ![Attention sucker](assets/img/consumes-attention-like-tik-tok.svg)
