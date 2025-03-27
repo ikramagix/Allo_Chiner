@@ -3,10 +3,9 @@
 # Allo... Chiné ?
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b358caaf-d0c9-454b-b4cb-b384fc4df799/deploy-status)](https://allochiner.netlify.app) 
+[![You do not speak baguette?](assets/img/Readme_in_English.png)](https://github.com/ikramagix/Allo_Chiner/blob/main/README_INT.md)
 
 Un générateur de films et de séries aléatoires pour pimenter vos soirées Netflix, bloqué dans la boucle des recommandations répétitives !
-
-[![You do not speak baguette?](assets/img/Readme_in_English.png)](https://github.com/ikramagix/Allo_Chiner/blob/main/README_INT.md)
 
 # Redécouvrez la magie du cinéma avec AlloChiné
 
