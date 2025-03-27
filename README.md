@@ -4,15 +4,7 @@ Un générateur de films et de séries aléatoires pour pimenter vos soirées Ne
 [![You do not speak baguette?](assets/img/Readme_in_English.png)](https://github.com/ikramagix/Allo_Chiner/blob/main/README_INT.md)
 
 
-![Attention sucker](assets/img/consumes-attention-like-tik-tok.svg)
-
-# Où ça dans le WWW (World Wide Web) ?
-
-- Version finale (en ligne) :
-[![Prototype](assets/img/apercu_site_allochine_CTO.png)](https://allochiner.netlify.app)
-
-- Tracker de statut :
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b358caaf-d0c9-454b-b4cb-b384fc4df799/deploy-status)](https://allochiner.netlify.app) ✅
+![Attention sucker](assets/img/consumes-attention-like-tik-tok.svg) [![Netlify Status](https://api.netlify.com/api/v1/badges/b358caaf-d0c9-454b-b4cb-b384fc4df799/deploy-status)](https://allochiner.netlify.app) ✅
 
 # Redécouvrez la magie du cinéma avec AlloChiné
 
