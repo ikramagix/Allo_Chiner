@@ -17,7 +17,7 @@ Un générateur de films et de séries aléatoires pour pimenter vos soirées Ne
 
 Dans une ère où l'industrie cinématographique est dominée par les blockbusters et les franchises, notre plateforme se veut un sanctuaire pour ceux qui se languissent de la richesse et de la profondeur du cinéma d'antan. Nous célébrons les classiques intemporels, les films qui ont ému les cœurs et stimulé les esprits, créant des moments inoubliables. Ces chefs-d'œuvre du passé ne sont pas seulement des films ; ce sont des fenêtres sur des mondes perdus, des invitations à explorer des époques et des cultures à travers les yeux des plus grands cinéastes.
 
-## Notre vision : un horizon sans limites pour les cinéphiles
+## Un horizon sans limites pour les cinéphiles
 
 Notre moteur de recherche est plus qu'un simple outil ; c'est une porte ouverte sur un univers cinématographique sans frontières. Nous croyons en un monde où chaque film, qu'il soit un chef-d'œuvre méconnu ou un succès culte, a sa place et sa valeur. Notre mission est de connecter chaque cinéphile avec des films qui résonnent, qui inspirent, qui éveillent la curiosité. Des films qui ne sont pas seulement regardés, mais vécus et ressentis, créant ainsi des liens inédits entre le passé, le présent et l'avenir du cinéma.
 
@@ -25,7 +25,7 @@ Notre moteur de recherche est plus qu'un simple outil ; c'est une porte ouverte 
 
 Avec notre plateforme, préparez-vous à un voyage cinématographique inégalé. De la splendeur du cinéma muet aux dernières innovations numériques, de Hollywood à Bollywood, des ruelles de Paris aux déserts de l'Afghanistan, nous vous offrons un billet pour explorer le monde à travers le prisme du 7ème art. Chaque recherche est une opportunité de découvrir un nouveau joyau, une histoire jamais racontée, un regard différent sur la vie et sur le monde.
 
-## L'expérience utilisateur : naviguer dans l'univers du cinéma
+## Naviguez dans l'univers du cinéma
 
 Naviguer sur notre plateforme, c'est comme se promener dans les allées d'une bibliothèque infinie dédiée au cinéma. Intuitive et conviviale, notre interface vous guide vers des découvertes surprenantes et des retrouvailles attendues. Que vous recherchiez un film spécifique ou que vous souhaitiez vous laisser surprendre, notre moteur de recherche est votre complice dans cette aventure cinématographique. La facilité de recherche et les suggestions personnalisées vous permettent de composer votre propre mosaïque cinématographique, reflétant vos goûts uniques.
 
