@@ -2,6 +2,8 @@
 
 Un générateur de films et de séries aléatoires pour pimenter vos soirées Netflix, bloqué dans la boucle des recommandations répétitives !
 <br>
+👉 [![You do not speak baguette?](assets/img/Readme_in_English.png)](https://github.com/ikramagix/Allo_Chiner/blob/main/README_INT.md)
+
 
 ![Attention sucker](assets/img/consumes-attention-like-tik-tok.svg)
 
@@ -11,7 +13,7 @@ Un générateur de films et de séries aléatoires pour pimenter vos soirées Ne
 [![Prototype](assets/img/apercu_site_allochine_CTO.png)](https://allochiner.netlify.app)
 
 - Tracker de statut :
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/b358caaf-d0c9-454b-b4cb-b384fc4df799/deploy-status)](https://allochiner.netlify.app) ✅
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b358caaf-d0c9-454b-b4cb-b384fc4df799/deploy-status)](https://allochiner.netlify.app) ✅
 
 # Redécouvrez la magie du cinéma avec AlloChiné
 
@@ -39,7 +41,7 @@ Naviguer sur notre plateforme, c'est comme se promener dans les allées d'une bi
 
 Chez nous, chaque utilisateur est un membre d'une communauté mondiale de cinéphiles. Partagez vos critiques, vos découvertes, vos coups de cœur et engagez-vous dans des discussions enrichissantes avec des passionnés du monde entier. Notre plateforme est un lieu de rencontre pour échanger, apprendre et célébrer ensemble la diversité et la richesse du cinéma.
 
-## Appel à l'action : rejoignez la révolution cinématographique
+## Rejoignez la révolution cinématographique
 
 Votre quête du film parfait commence ici. Rejoignez notre communauté de passionnés et découvrez le cinéma sous un jour nouveau. Parce que chaque film a une histoire, et chaque histoire mérite d'être racontée. Explorez, expérimentez, partagez - ensemble, redéfinissons l'expérience cinématographique.
 
