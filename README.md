@@ -1,10 +1,9 @@
+![Attention sucker](assets/img/consumes-attention-like-tik-tok.svg) [![Netlify Status](https://api.netlify.com/api/v1/badges/b358caaf-d0c9-454b-b4cb-b384fc4df799/deploy-status)](https://allochiner.netlify.app) ![With Love From Earth Join Us : Arabicode](assets/img/with-love-from-earth-join-us-music.svg) ✅
+
 # Allo... Chiné ?
 
 Un générateur de films et de séries aléatoires pour pimenter vos soirées Netflix, bloqué dans la boucle des recommandations répétitives !
 [![You do not speak baguette?](assets/img/Readme_in_English.png)](https://github.com/ikramagix/Allo_Chiner/blob/main/README_INT.md)
-
-
-![Attention sucker](assets/img/consumes-attention-like-tik-tok.svg) [![Netlify Status](https://api.netlify.com/api/v1/badges/b358caaf-d0c9-454b-b4cb-b384fc4df799/deploy-status)](https://allochiner.netlify.app) ✅
 
 # Redécouvrez la magie du cinéma avec AlloChiné
 
@@ -107,7 +106,3 @@ Votre quête du film parfait commence ici. Rejoignez notre communauté de passio
     <img src="assets/img/testimonials/white-shoe-hit.gif" alt="Chaussures Blanches.">
   </div>
 </div>
-<br>
-
-  ![With Love From Earth Join Us : Arabicode](assets/img/with-love-from-earth-join-us-music.svg)
-
