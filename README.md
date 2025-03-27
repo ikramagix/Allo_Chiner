@@ -8,11 +8,11 @@ Un générateur de films et de séries aléatoires pour pimenter vos soirées Ne
 
 # Où dans le WWW (World Wide Web) ?
 
-- Version finale (en ligne ?) :
-  ![Prototype](assets/img/apercu_site_allochine_CTO.png)
+- Version finale (en ligne) :
+[![Prototype](assets/img/apercu_site_allochine_CTO.png)](https://allochiner.netlify.app)
 
 - Tracker de statut :
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/b358caaf-d0c9-454b-b4cb-b384fc4df799/deploy-status)](https://your-netlify-status-link.com) ✅
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/b358caaf-d0c9-454b-b4cb-b384fc4df799/deploy-status)](https://allochiner.netlify.app) ✅
 
 ![Attention sucker](assets/img/consumes-attention-like-tik-tok.svg)
 
