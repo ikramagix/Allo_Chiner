@@ -5,8 +5,6 @@ Un générateur de films et de séries aléatoires pour pimenter vos soirées Ne
 
 ![Attention sucker](assets/img/consumes-attention-like-tik-tok.svg)
 
----
-
 # Où ça dans le WWW (World Wide Web) ?
 
 - Version finale (en ligne) :
