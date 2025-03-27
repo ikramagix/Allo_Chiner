@@ -47,16 +47,11 @@ Votre quête du film parfait commence ici. Rejoignez notre communauté de passio
   </div>
 </div>
 
-
 <div class="col-md-4 text-center">
 <img src="assets/img/acropolis_airbus_beluga.png" alt="Aperçu de l'acropole avec une fontaine en forme d'Airbus Beluga">
-<blockquote>Toutes les grandes réalisations prennent du temps.</bloquote>
+<blockquote>Toutes les grandes réalisations prennent du temps.</blockquote>
 <p>- Maya Angelou</p>
-
 <hr>
-
-# SEE IT ? CLICK IT !
-
 <div class="container">
   <div class="row">
     <div class="col-md-4 text-center">
@@ -69,12 +64,14 @@ Votre quête du film parfait commence ici. Rejoignez notre communauté de passio
         <img src="https://api.netlify.com/api/v1/badges/b358caaf-d0c9-454b-b4cb-b384fc4df799/deploy-status" alt="Netlify Status">
       </a>
     </div>
-    <h1>une GALERiE:LA_GALERiE, ici?! Scandale!</h1>
     <div class="col-md-4 text-center">
       <h2>MAGHREB UNITED </h2>
       <img src="assets/img/testimonials/ALGERIA.gif" alt="Testimonial - ALGERIA">
     </div>
   </div>
+  
+  <h1>une GALERiE:LA_GALERiE, ici?! Scandale!</h1>
+  
   <div class="row">
     <div class="col-md-4 text-center">
       <h2>Je monte dans les tours comme Jul.</h2>
@@ -89,22 +86,26 @@ Votre quête du film parfait commence ici. Rejoignez notre communauté de passio
       <img src="assets/img/testimonials/PLAY_WITH_COURAGE.gif" alt="Testimonial - PLAY WITH COURAGE">
     </div>
   </div>
+  
   <div class="row">
     <div class="col-md-4 text-center">
       <h2>a$ap RoCK iT:!</h2>
       <img src="assets/img/testimonials/asap-rocki.gif" alt="Testimonial - asap-rocki">
     </div>
   </div>
-  <div class="col-md-4 text-center">
-    <h2>Brothers</h2>
-    <img src="assets/img/testimonials/bro.gif" alt="Testimonial - bro">
-  </div>
-  <div class="col-md-4 text-center">
-    <h2>Dignity.</h2>
-    <img src="assets/img/testimonials/the-thinker.gif" alt="Testimonial - The Thinker">
-  </div>
-  <div class="col-md-4 text-center">
-    <h2>Stan Smith.</h2>
-    <img src="assets/img/testimonials/white-shoe-hit.gif" alt="Chaussures Blanches.">
+  
+  <div class="row">
+    <div class="col-md-4 text-center">
+      <h2>Brothers</h2>
+      <img src="assets/img/testimonials/bro.gif" alt="Testimonial - bro">
+    </div>
+    <div class="col-md-4 text-center">
+      <h2>Dignity.</h2>
+      <img src="assets/img/testimonials/the-thinker.gif" alt="Testimonial - The Thinker">
+    </div>
+    <div class="col-md-4 text-center">
+      <h2>Stan Smith.</h2>
+      <img src="assets/img/testimonials/white-shoe-hit.gif" alt="Chaussures Blanches.">
+    </div>
   </div>
 </div>
