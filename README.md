@@ -1,4 +1,5 @@
-![Attention sucker](assets/img/consumes-attention-like-tik-tok.svg) [![Netlify Status](https://api.netlify.com/api/v1/badges/b358caaf-d0c9-454b-b4cb-b384fc4df799/deploy-status)](https://allochiner.netlify.app) ![With Love From Earth Join Us : Arabicode](assets/img/with-love-from-earth-join-us-music.svg) ✅
+![Attention sucker](assets/img/consumes-attention-like-tik-tok.svg) ![With Love From Earth Join Us : Arabicode](assets/img/with-love-from-earth-join-us-music.svg) 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b358caaf-d0c9-454b-b4cb-b384fc4df799/deploy-status)](https://allochiner.netlify.app) 
 
 # Allo... Chiné ?
 
