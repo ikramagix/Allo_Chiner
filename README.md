@@ -3,9 +3,13 @@
 Un générateur de films et de séries aléatoires pour pimenter vos soirées Netflix, bloqué dans la boucle des recommandations répétitives !
 
 <br>
+
 ![With Love From Earth Join Us : Arabicode](assets/img/with-love-from-earth-join-us-music.svg)
+
 <br>
+
 ![Attention sucker](assets/img/consumes-attention-like-tik-tok.svg)
+
 ---
 
 # Où ça dans le WWW (World Wide Web) ?
