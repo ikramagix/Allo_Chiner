@@ -43,6 +43,24 @@ Chez nous, chaque utilisateur est un membre d'une communauté mondiale de cinép
 
 Votre quête du film parfait commence ici. Rejoignez notre communauté de passionnés et découvrez le cinéma sous un jour nouveau. Parce que chaque film a une histoire, et chaque histoire mérite d'être racontée. Explorez, expérimentez, partagez - ensemble, redéfinissons l'expérience cinématographique.
 
+<div class="col-md-4 text-center">
+      <h2>Allo.. Chiné ?</h2>
+      <img src="assets/img/apercu_site_allochine.png" alt="Aperçu du site Allochine avec des films plus singuliers">
+    </div>
+  <div class="col-md-4 text-center">
+    <h2>Alors.. Chiné !</h2>
+    <img src="assets/img/apercu_site_allochine_marvel.png" alt="Aperçu du site Allochine avec des films de comic book grand public">
+  </div>
+</div>
+
+
+  <div class="col-md-4 text-center">
+          <h2>Enjoy, it's art!</h2>
+    <img src="assets/img/acropolis_airbus_beluga.png" alt="Aperçu de l'acropole avec une fontaine en forme d'Airbus Beluga">
+
+  <blockquote>Toutes les grandes réalisations prennent du temps.</bloquote>
+  <p>- Maya Angelou</p>
+
 # SEE IT ? CLICK IT !
 
 <div class="container">
@@ -96,24 +114,6 @@ Votre quête du film parfait commence ici. Rejoignez notre communauté de passio
     <img src="assets/img/testimonials/white-shoe-hit.gif" alt="Chaussures Blanches.">
   </div>
 </div>
-      <div class="col-md-4 text-center">
-      <h2>Allo.. Chiné ?</h2>
-      <img src="assets/img/apercu_site_allochine.png" alt="Aperçu du site Allochine avec des films plus singuliers">
-    </div>
-  <div class="col-md-4 text-center">
-    <h2>Alors.. Chiné !</h2>
-    <img src="assets/img/apercu_site_allochine_marvel.png" alt="Aperçu du site Allochine avec des films de comic book grand public">
-  </div>
-</div>
-
-
-  <div class="col-md-4 text-center">
-          <h2>Enjoy, it's art!</h2>
-    <img src="assets/img/acropolis_airbus_beluga.png" alt="Aperçu de l'acropole avec une fontaine en forme d'Airbus Beluga">
-
-  <blockquote>Toutes les grandes réalisations prennent du temps.</bloquote>
-  <p>- Maya Angelou</p>
-
 <br>
 
   ![With Love From Earth Join Us : Arabicode](assets/img/with-love-from-earth-join-us-music.svg)
