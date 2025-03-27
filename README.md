@@ -48,12 +48,12 @@ Votre quête du film parfait commence ici. Rejoignez notre communauté de passio
 </div>
 
 
-  <div class="col-md-4 text-center">
-          <h2>Enjoy, it's art!</h2>
-    <img src="assets/img/acropolis_airbus_beluga.png" alt="Aperçu de l'acropole avec une fontaine en forme d'Airbus Beluga">
+<div class="col-md-4 text-center">
+<img src="assets/img/acropolis_airbus_beluga.png" alt="Aperçu de l'acropole avec une fontaine en forme d'Airbus Beluga">
+<blockquote>Toutes les grandes réalisations prennent du temps.</bloquote>
+<p>- Maya Angelou</p>
 
-  <blockquote>Toutes les grandes réalisations prennent du temps.</bloquote>
-  <p>- Maya Angelou</p>
+<hr>
 
 # SEE IT ? CLICK IT !
 
